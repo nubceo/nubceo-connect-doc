@@ -41,7 +41,7 @@ These are the possible errores the authentication endpoint can throw:
 ## API reference
 
 Swagger API reference:  
-https://connectapi.nubceo.com/v1/documentation/index.html
+https://connectapi.nubceo.com/v1/documentation/static/index.html
 
 
 ## Requesting access
