@@ -1,5 +1,7 @@
 # **nubceo connect** documentation
 
+![nubceo connect](https://raw.githubusercontent.com/nubceo/nubceo-connect-doc/master/nubceo_connect_logo_1024w.png)
+
 Here you can find technical documentation to use our **nubceo connect** REST API.
 
 ## Authentication
