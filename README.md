@@ -87,8 +87,9 @@ Current available operators:
 
 Examples:
 - `?filter[name][like]=%nubceo%`
-- `?filters[platformExternalCode][eq]=card_processor`
-- `?filters[id][in]=[1,2]`
+- `?filter[platformExternalCode][eq]=card_processor`
+- `?filter[id][in]=[1,2]`
+- `?filter[date][ge]=2022-02-18T00:00:00`
 
 ## Requesting access
 
