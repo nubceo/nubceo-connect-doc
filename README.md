@@ -24,10 +24,10 @@ The authentication process uses a JWT token that you should request prior to usi
    ```
 2. Get and save the JWT token  
    Keep in mind that the JWT token expires in 1 hour after issuance. You will need to request a new one to continue using the API.
-3. Include the JWT token in the `Authentication` HTTP header on each request.
-   The HTTP Header to use is `Authentication` with the Bearer token authentication scheme.  
+3. Include the JWT token in the `Authorization` HTTP header on each request.
+   The HTTP Header to use is `Authorization` with the Bearer token authentication scheme.  
    Example:  
-   `Authentication: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6...`
+   `Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6...`
 
 ### Errors
 
