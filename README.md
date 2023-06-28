@@ -61,7 +61,7 @@ All responses from the API share the same base structure:
 
 All endpoints that query for a list of objects have the capability to be filtered. The filters should be passed as GET query params in the following format:
 ```
-?filters[fieldName][operator]=value
+?filter[fieldName][operator]=value
 ```
 Being:
 - `fieldName` the field to filter by
